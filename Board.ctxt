@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Board
+comment0.text=\n\ Write\ a\ description\ of\ class\ Board\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Board()
+comment2.params=c
+comment2.target=void\ addToCharacter(java.lang.Character)
+comment3.params=
+comment3.target=java.lang.String\ getWord()
+comment4.params=
+comment4.target=java.lang.String\ getWordAgain()
+comment5.params=k
+comment5.target=boolean\ searchWord(java.lang.String)
+comment6.params=length
+comment6.target=void\ updateScore(int)
+comment7.params=word
+comment7.target=int\ getLength(java.lang.String)
+comment8.params=
+comment8.target=void\ clearList()
+comment9.params=
+comment9.target=void\ updateWord()
+numComments=10
